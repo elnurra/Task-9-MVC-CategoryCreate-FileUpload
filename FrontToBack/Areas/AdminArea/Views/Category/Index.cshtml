@@ -1,0 +1,47 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container">
+    <h4>Category Table</h4>
+    <div class="row">
+        <a asp-action="Create" as class="btn btn-success" style="font-size:30px" >Create </a>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Settings</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">@item.Name</th>
+                        <td>@item.Description.Substring(0,11)...</td>
+                        <td>
+                            <a asp-controller="Category" asp-action="Detail" asp-area="AdminArea" asp-route-id="@item.Id" class="btn btn-primary">
+                                <i class="fa fa-info-circle" style="font-size:30px" aria-hidden="true"></i>
+                                
+                            </a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">
+                                <i class="fa fa-pencil" style="font-size:30px" aria-hidden="true"></i>
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">
+                                <i class="fa fa-trash-o" style="font-size:30px" aria-hidden="true"></i>
+
+                            </a>
+
+                        </td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+</div>
+

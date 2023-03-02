@@ -1,0 +1,17 @@
+﻿@model Bio
+
+<div class="row py-2">
+                <div class=" col-lg-4 text-center text-lg-left">
+                    <p class="text-black-50">Powered by <a class="author text-muted"
+                            href="https://www.bakhtiyar.az">@Model.AuthorName</a> 2020</p>
+                </div>
+                <div class=" col-lg-4 text-center">
+                    <img src="~/img/@Model.ImageUrl" class="fluid" alt="">
+                </div>
+                <div class=" col-lg-4 text-center text-lg-right mt-3 mt-lg-0">
+                    <a class="text-black-50 mr-5"
+                        href="@Model.Instargram">LINKEDIN</a
+                        class="text-black-50">
+                    <a class="text-black-50" href="@Model.Facebook">FACEBOOK</a>
+                </div>
+            </div>

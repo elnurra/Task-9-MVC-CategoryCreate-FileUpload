@@ -1,0 +1,27 @@
+﻿@model List<Book>
+
+    <div class="container">
+        
+@foreach (var book in Model)
+        {
+
+        <p class> BookName=> @book.Name Image: @book.BookImages.FirstOrDefault().ImageUrl; </p>
+        @foreach (var bookimage in book.BookImages)
+            {
+                <span> Image: @bookimage.ImageUrl</span>
+            }
+         @foreach (var bookGenre in book.BookGenres)
+        {
+            <p>@bookGenre.Genre.Name</p>
+        }
+        @foreach (var bookAuthor in book.BookAuthors)
+        {
+            <p>@bookAuthor.Author.Name</p>
+            <p>@bookAuthor.Author.SocialPage.Facebook</p>
+        }
+
+    }
+     
+
+    
+    </div>
