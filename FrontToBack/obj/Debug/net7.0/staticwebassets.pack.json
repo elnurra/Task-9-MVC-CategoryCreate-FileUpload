@@ -89,6 +89,10 @@
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
+      "Id": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\img\\34a03440-52c5-46e9-8165-86152edcd0a4Google.png",
+      "PackagePath": "staticwebassets\\img\\34a03440-52c5-46e9-8165-86152edcd0a4Google.png"
+    },
+    {
       "Id": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\img\\NotFound.png",
       "PackagePath": "staticwebassets\\img\\NotFound.png"
     },
@@ -255,6 +259,10 @@
     {
       "Id": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\img\\testimonial-img-2.png",
       "PackagePath": "staticwebassets\\img\\testimonial-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\img\\Снимок экрана_20221222_022919.png",
+      "PackagePath": "staticwebassets\\img\\Снимок экрана_20221222_022919.png"
     },
     {
       "Id": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\js\\script.js",

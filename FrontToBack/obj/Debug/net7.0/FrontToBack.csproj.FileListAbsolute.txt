@@ -1260,3 +1260,5 @@ C:\Users\user\Documents\Code Academy\BackEnd\ASP.NET Core\Homework\Task-8 MVC Ca
 C:\Users\user\Documents\Code Academy\BackEnd\ASP.NET Core\Homework\Task-8 MVC Category CRUD, FileUpload\FrontToBack\obj\Debug\net7.0\FrontToBack.pdb
 C:\Users\user\Documents\Code Academy\BackEnd\ASP.NET Core\Homework\Task-8 MVC Category CRUD, FileUpload\FrontToBack\obj\Debug\net7.0\FrontToBack.genruntimeconfig.cache
 C:\Users\user\Documents\Code Academy\BackEnd\ASP.NET Core\Homework\Task-8 MVC Category CRUD, FileUpload\FrontToBack\obj\Debug\net7.0\ref\FrontToBack.dll
+C:\Users\user\Documents\Code Academy\BackEnd\ASP.NET Core\Homework\Task-8 MVC Category CRUD, FileUpload\FrontToBack\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\user\Documents\Code Academy\BackEnd\ASP.NET Core\Homework\Task-8 MVC Category CRUD, FileUpload\FrontToBack\bin\Debug\net7.0\xunit.core.dll

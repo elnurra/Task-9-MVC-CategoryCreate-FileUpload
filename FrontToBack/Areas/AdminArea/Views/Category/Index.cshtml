@@ -25,16 +25,14 @@
                         <td>
                             <a asp-controller="Category" asp-action="Detail" asp-area="AdminArea" asp-route-id="@item.Id" class="btn btn-primary">
                                 <i class="fa fa-info-circle" style="font-size:30px" aria-hidden="true"></i>
-                                
+                     
                             </a>
                             <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">
                                 <i class="fa fa-pencil" style="font-size:30px" aria-hidden="true"></i>
                             </a>
                             <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">
                                 <i class="fa fa-trash-o" style="font-size:30px" aria-hidden="true"></i>
-
                             </a>
-
                         </td>
                     </tr>
                 }

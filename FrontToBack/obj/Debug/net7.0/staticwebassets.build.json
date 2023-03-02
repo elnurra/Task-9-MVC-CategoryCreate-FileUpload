@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cyNzHxNw6D8hd9Uh81SKI0Dc6tvgDx9mQtLGTKViQZA=",
+  "Hash": "mJpEFYzCNkBQornRvCmvkXQt0Uh5NskNSgenf75gMJs=",
   "Source": "FrontToBack",
   "BasePath": "_content/FrontToBack",
   "Mode": "Default",
@@ -406,6 +406,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\img\\34a03440-52c5-46e9-8165-86152edcd0a4Google.png",
+      "SourceId": "FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\",
+      "BasePath": "_content/FrontToBack",
+      "RelativePath": "img/34a03440-52c5-46e9-8165-86152edcd0a4Google.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\34a03440-52c5-46e9-8165-86152edcd0a4Google.png"
     },
     {
       "Identity": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\img\\blog-feature-img-1.jpg",
@@ -1120,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\testimonial-img-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\img\\Снимок экрана_20221222_022919.png",
+      "SourceId": "FrontToBack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\",
+      "BasePath": "_content/FrontToBack",
+      "RelativePath": "img/Снимок экрана_20221222_022919.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Снимок экрана_20221222_022919.png"
     },
     {
       "Identity": "C:\\Users\\user\\Documents\\Code Academy\\BackEnd\\ASP.NET Core\\Homework\\Task-8 MVC Category CRUD, FileUpload\\FrontToBack\\wwwroot\\js\\script.js",
